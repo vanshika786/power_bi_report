@@ -1,0 +1,17 @@
+# Ignore all PBIX files (if you don't want to version control the report files themselves)
+*.pbix
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore node_modules (if using Node.js for any scripting)
+node_modules/
+
+# Ignore other unwanted files or directories
+temp/
+logs/
